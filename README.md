@@ -1,4 +1,4 @@
-# React Clock
+# React Clock v1.1
 
 This is a fork of this clock app that includes deployments for Azure Kubernetes Service and Docker.
 
